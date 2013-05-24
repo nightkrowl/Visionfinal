@@ -1,0 +1,57 @@
+INSTALL
+=======
+
+Para su correcto funcionamiento el programa necesita lo siguiente:
+ o Python 2.7
+ o PIL
+ o Numpy
+
+A continuación se describirá como instalar cada uno.
+
+Python 2.7 - Linux
+==================
+
+Python regularmente está pre-instalado en sistemas operativos Linux
+(confirmado en Ubuntu y Fedora).
+
+
+Python 2.7 - Windows
+====================
+
+Para instalar Python en Windows, es posible descargar el instalador
+desde el enlace:
+
+http://www.python.org/getit/
+
+
+PIL - Ubuntu
+===============
+
+En Ubuntu, desde el gestor de paquetes synaptic lo buscamos como
+PIL e instalamos
+
+
+PIL - Windows
+==============
+
+Descargar instalador del siguiente enlace
+
+https://developers.google.com/appengine/docs/python/images/installingPIL?hl=es
+
+Seguir pasos para instalar.
+
+
+Numpy - Ubuntu
+================
+
+En Ubuntu, desde el gestor de paquetes synaptic lo buscamos como 
+numpy e instalamos.
+
+
+Numpy - Windows
+===============
+Descargar el instalador del siguiente enlace
+
+http://numpy.softpedia.com/es/
+
+Seguir pasos a instalar
